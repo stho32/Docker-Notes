@@ -4,6 +4,7 @@ Notes about docker
   - pluralsight path "Container Management using Docker"
   - IQ Test awful :)
   - started with "Docker networking" because I need that the most
+  - Microsoft SQL Server as a docker container https://www.red-gate.com/simple-talk/sysadmin/containerization/provisioning-sql-server-instances-docker/ 
   
 ## Docker networking (https://app.pluralsight.com/library/courses/docker-networking/table-of-contents)
 
